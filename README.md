@@ -1,4 +1,4 @@
-![Cover image for fashion trend forecasting project](./cover.png)
+![Cover image for fashion trend forecasting project](./capstone.cover.png)
 
 
 
