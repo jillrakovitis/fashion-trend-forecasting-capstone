@@ -11,7 +11,8 @@ This project explores emerging fashion trends using computer vision and image da
 ## Key Deliverables
 - Model: Classified silhouettes, colors, and outfit features from 1800+ images
 - Visuals: Tableau dashboards highlighting top trends
-- Presentation: [View deck here]([(https://www.canva.com/design/DAGsgexCJJY/1eTM9mpHqU2MS_pune-L8g/edit?utm_content=DAGsgexCJJY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://github.com/jillrakovitis/fashion-trend-forecasting-capstone/blob/main/Jill.Rakovitis.Capstone.trendforecasting.pdf)]
+- Presentation: [View deck here](https://github.com/jillrakovitis/fashion-trend-forecasting-capstone/blob/main/Jill.Rakovitis.Capstone.trendforecasting.pdf?raw=true)
+
 
 
 ## About Me
