@@ -11,7 +11,8 @@ This project explores emerging fashion trends using computer vision and image da
 ## Key Deliverables
 - Model: Classified silhouettes, colors, and outfit features from 1800+ images
 - Visuals: Tableau dashboards highlighting top trends
-- Presentation: /Users/user/Desktop/Jill.Rakovitis.Capstone.trendforecasting.pdf
+- Presentation: [View deck here](/Users/user/Desktop/Jill.Rakovitis.Capstone.trendforecasting.pdf)
+
 
 ## About Me
 Hi, I’m Jill — a data analyst with a background in fashion and creative direction. I love using data to tell stories and shape strategy.
