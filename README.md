@@ -1,7 +1,6 @@
 ![Cover image for fashion trend forecasting project](.//Users/user/Desktop/Capstone.Cover.png)
 
 
-
 # Fashion Trend Forecasting – Capstone Project
 
 This project explores emerging fashion trends using computer vision and image data. I built a ResNet18 model to classify key style attributes from street-style photos and used Tableau to visualize insights for merchandising strategy.
