@@ -9,7 +9,7 @@ This project explores emerging fashion trends using computer vision and image da
 - Jupyter Notebook
 
 ## Key Deliverables
-- Model: Classified silhouettes, colors, and outfit features from 400+ images
+- Model: Classified silhouettes, colors, and outfit features from 1800+ images
 - Visuals: Tableau dashboards highlighting top trends
 - Presentation: [View deck here](link-to-your-pdf-or-external-Canva-link)
 
